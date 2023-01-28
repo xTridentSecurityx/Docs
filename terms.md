@@ -14,7 +14,7 @@
   
 > • **a)** Removing the bot from your server
 > 
-> • **b)** Blacklisting you from Server Manager and all future services and projects. 
+> • **b)** Blacklisting you from HackerMan Bot and all future services and projects. 
 
 **7.** If you have violated the Terms of Service, you shall be blacklisted from our system.
 
